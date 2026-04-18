@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Meu nome é Rhuan Natan e sou Desenvolvedor Backend Java, de Curitiba, Brasil.</p>
+<p align="center">Meu nome é Rhuan Natan e sou Desenvolvedor Backend Java.</p>
 
 ###
 
@@ -14,7 +14,7 @@
   ✨ Criando bugs desde 2023<br>
   📚 Atualmente aprendendo Cloud Computing e DevOps<br>
   🎯 Objetivo: Conquistar minha primeira vaga como Desenvolvedor Backend Java<br>
-  🎲 Curiosidade: Aprendo melhor quebrando as coisas e descobrindo o porquê
+  🎲 Curiosidade: Aprender fazendo é a melhor forma de aprender
 </p>
 
 ###
