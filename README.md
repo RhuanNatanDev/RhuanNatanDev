@@ -11,7 +11,7 @@
 ###
 
 <p align="center">
-  ✨ Criando bugs desde 2023<br>
+  ✨ Um commit de cada vez...<br>
   📚 Atualmente aprendendo Cloud Computing e DevOps<br>
   🎯 Objetivo: Conquistar minha primeira vaga como Desenvolvedor Backend Java<br>
   🎲 Curiosidade: Aprender fazendo é a melhor forma de aprender
