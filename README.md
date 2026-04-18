@@ -1,16 +1,16 @@
-<h1 align="left">Eai 👋 Tudo bem?</h1>
+<h1 align="center">Eai 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">Meu nome é Rhuan Natan e sou Desenvolvedor Backend Java, de Curitiba, Brasil.</p>
+<p align="center">Meu nome é Rhuan Natan e sou Desenvolvedor Backend Java, de Curitiba, Brasil.</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="center">Sobre mim</h2>
 
 ###
 
-<p align="left">
+<p align="center">
   ✨ Criando bugs desde 2023<br>
   📚 Atualmente aprendendo Cloud Computing e DevOps<br>
   🎯 Objetivo: Conquistar minha primeira vaga como Desenvolvedor Backend Java<br>
@@ -19,11 +19,11 @@
 
 ###
 
-<h2 align="left">Tecnologias que uso</h2>
+<h2 align="center">Tecnologias que uso</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
