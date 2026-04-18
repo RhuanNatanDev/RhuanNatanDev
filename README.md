@@ -46,9 +46,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RhuanNatan&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=RhuanNatanDev&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/RhuanNatan/RhuanNatan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RhuanNatanDev/RhuanNatanDev/output/snake.svg" alt="Snake animation" />
