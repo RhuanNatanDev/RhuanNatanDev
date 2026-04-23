@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Meu nome é Rhuan Natan e sou Desenvolvedor Backend Java.</p>
+<p align="center">Meu nome é Rhuan Natan e sou Desenvolvedor Backend.</p>
 
 ###
 
